@@ -1,0 +1,1 @@
+# Qt5.14.2kaiyuanbanLinuxx64anzhuangwenjianxiazai
